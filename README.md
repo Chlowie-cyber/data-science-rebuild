@@ -8,7 +8,7 @@ I’m rebuilding everything I learned in Data Science from the ground up — thi
 | Module                             | Status          | GitHub Link                                                         | Tools Used                           |
 |------------------------------------|-----------------|---------------------------------------------------------------------|--------------------------------------|
 | ✅ Python Basics                  | ✅ Complete     | [Repo](https://github.com/Chlowie-cyber/python-bacis-projects.git)  | Python, Jupyter                      |
-| 🧠 Mathematics & Stats            | 🔄 In Progress  |                                                                     | Jupyter Notebook                     |
+| 🧠 Mathematics & Stats            | ✅ Complete  |  [Repo](https://github.com/Chlowie-cyber/student-performance-analysis)                                                                  | Jupyter Notebook                     |
 | 📊 Excel + BDS                    | 🔜 Coming Soon  |                                                                     | Excel                                |
 | 🛢️ MySQL (SQL Workbench)          | 🔜 Coming Soon  |                                                                     | SQL Workbench, CSV                   |
 | 📚 R Programming                  | 🔜 Coming Soon  |                                                                     | RStudio, ggplot2                     |
